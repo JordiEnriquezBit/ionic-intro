@@ -1,0 +1,41 @@
+#comments{
+    border-bottom: 4px solid steelblue;
+    font-weight:unset;
+  }
+  form{
+    background-color: #E9ECEF;
+    padding: 50px;
+  }
+  h2{
+    margin: 0;
+  }
+  label{
+  margin-top: 10px;
+  display:inline-block;
+  }
+  input{
+    margin-top: 10px;
+    width: 100%;
+  }
+  textarea{
+    margin-top: 10px;
+    width: 100%;
+  }
+  button{
+    margin-top: 10px;
+    background-color: #17A2B8;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+  }
+  
+  #comment{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  ion-content {
+    --overflow: hidden;
+}
